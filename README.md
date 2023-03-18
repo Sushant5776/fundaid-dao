@@ -1,6 +1,6 @@
 # FundaidDAO
 
-> Decentralize your giving with PhilanthroDAO – where every donation counts!
+> Decentralize your giving with FundaidDAO – where every donation counts!
 
 Introducing "FundaidDAO", the revolutionary app that allows users to engage in philanthropy in a decentralized way through blockchain technology.
 
